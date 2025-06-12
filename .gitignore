@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Environments
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FastAPI/Static
+*.db
+*.cache
+static/
+
+# Pix2Tex model folders (if any large ones)
+*.pth
